@@ -1,0 +1,1 @@
+Get-Content input.txt | ./program > output.txt
